@@ -1,0 +1,36 @@
+自己最常用的快捷键：
+
+// 选择类
+ctrl+d: 将选择当前选中项的下一个匹配项，可多次使用
+alt+f3：选择文件中的所有匹配项
+ctrl+shift+’：选择被选中内容的外层html标签（需要emmet插件）
+ctrl+shift+a：选择父容器,再按,将选择父容器的父容器（需要emmet插件）
+ctrl+shift+m：选择括号之间的一切（适用于js,css）
+ctrl+l: 选择一行
+ctrl+r: 前往method
+ctrl+f查找后，f3: 下一个匹配项，shift+f3: 上一个匹配项
+
+// 窗口操作
+ctrl+alt+p: 切换project
+ctrl+shift+n: 打开新Sublime
+ctrl+shift+w: 关闭Sublime，关闭所有打开文件
+ctrl+shift+t: 重新打开最近关闭文件
+ctrl+n: 开新页面
+ctrl+pageup,ctrl+pagedown: 页面之间切换
+
+// 代码编辑
+ctrl+alt+up,ctrl+alt+down: 多行编辑
+ctrl+shift+↑ 或 ↓: 上移或下移行
+ctrl+shift+d: 复制选中项所在行并粘贴新的一行内容
+ctrl+[ 或 ]: 增加和减少缩进
+ctrl+shift+v: 粘贴并保持缩进
+alt+shift+w: 用标签包裹行或选中项
+ctrl+shift+;: 移除与你的光标相关的父标签
+ctrl+home，ctrl+end：移动到当前页行首或行尾
+ctrl+k+u,ctrl+k+l: 大写和小写
+ctrl+/: 注释选中项/行
+ctrl+shift+/：去除注释
+ctrl+j: 合并该行和下一行
+ctrl+回车: 开辟下一行（关键是可以光标在任何位置啊，比直接回车好用）
+ctrl+shift+回车: 开辟上一行（关键是可以光标在任何位置啊，比直接回车好用）
+ctrl+k,ctrl+0: 展开所有折叠
