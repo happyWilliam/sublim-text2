@@ -2,4 +2,5 @@ sublim text2常用插件汇总：
 
 1.Emmet：html/css---快速开发必备工具
 2.HTML/CSS/JS Prettify---html/css/js文件一键格式化
-3.
+3.ConvertToUTF8---转换文件编码为UTF-8
+4.DocBlockr---输入/**回车自动根据函数及其参数生成注释
